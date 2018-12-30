@@ -21,7 +21,7 @@
             "introduce" :"化身剑气，对指定范围造成5次伤害，期间不可选中，命中多个英雄时伤害递减"
         }
     ],
-        "sunwukong":[
+    "sunwukong":[
         {
             "name":"孙悟空：",
             "introduce":"刺客"
